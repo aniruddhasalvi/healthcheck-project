@@ -1,6 +1,6 @@
 # Health Check Script
 
-A Bash script that checks the state of a Linux server and saves the result to a dted log file.
+A Bash script that checks the state of a Linux server and saves the result to a dated log file.
 
 ## What it checks
 - Date and hostname
